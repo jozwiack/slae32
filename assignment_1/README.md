@@ -294,11 +294,11 @@ listening service:
 References
 ----------
 
-[Startup state of a Linux/i386 ELF binary](http://asm.sourceforge.net/articles/startup.html)
-[Linux System Call Table](http://docs.cs.up.ac.za/programming/asm/derick_tut/syscalls.html)
-[Writing multithreaded programs under Linux](http://rudy.mif.pg.gda.pl/~bogdro/linux/watki_linux_en.html)
-[Programming IP Sockets on Linux, Part One](http://gnosis.cx/publish/programming/sockets.html)
-[Writing shellcode for Linux and BSD](http://www.kernel-panic.it/security/shellcode/)
+* [Startup state of a Linux/i386 ELF binary](http://asm.sourceforge.net/articles/startup.html)
+* [Linux System Call Table](http://docs.cs.up.ac.za/programming/asm/derick_tut/syscalls.html)
+* [Writing multithreaded programs under Linux](http://rudy.mif.pg.gda.pl/~bogdro/linux/watki_linux_en.html)
+* [Programming IP Sockets on Linux, Part One](http://gnosis.cx/publish/programming/sockets.html)
+* [Writing shellcode for Linux and BSD](http://www.kernel-panic.it/security/shellcode/)
 
 
 <!---

@@ -80,8 +80,6 @@ mainloop:
 
   ; fork()
   ; (EAX) fork=2
-  ; big chance that fd is relatively small, no need to zero eax
-  ; xor eax, eax
   mov al, 0x02
   int 0x80
   ; (EAX) return value (PID of the process)
